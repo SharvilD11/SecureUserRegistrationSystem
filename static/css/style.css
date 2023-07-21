@@ -1,0 +1,24 @@
+#bg{
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 1900px 1000px;
+    background-attachment: fixed;
+}
+
+#hh{
+    margin-top: 20px;;
+}
+
+.container1 {
+    margin-top: 90px;
+    
+    text-align: center;
+  }
+
+  .container2 {
+    margin-top: 90px;
+ 
+    text-align: center;
+  }
+  
+
